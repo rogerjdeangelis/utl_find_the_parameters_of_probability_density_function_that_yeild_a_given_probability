@@ -94,4 +94,11 @@ Log
 
 FX=0.5
 
+Ricks Response
+
+This is essentially one-dimensional root-finding problem. For two or more parameters, it becomes optimization of a function of an integral. For example:
+Given the Beta(a,b) PDF, what values of the parameters maximize the probability that X is in[0.6, 0.8]?
+
+Answer and SAS code at
+https://blogs.sas.com/content/iml/2014/03/05/optimizing-a-function-that-evaluates-an-integral.html
 
